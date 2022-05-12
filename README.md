@@ -7,6 +7,6 @@ Follow the implementation of [mean-teacheer](https://github.com/CuriousAI/mean-t
 - torch environment: 1.8.1+cu111
 - configure the location of cifar-10 dataset (modify parameter 'root' in the run.py file) and run run.py
 ## Other
-- The code is more friendly and suitable for torch beginners
+- The code is more friendly and suitable for torch beginners as well as obsessive-compulsive disorder
 - File train.py stores the core part of the algorithm, you can modify it according to your needs
 - datasets folder is the interface part of the data and you can add your own data reading program
